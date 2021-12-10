@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Your friendly neighborhood full stack developer here ![banner]("./pics/banner.mp4")
+Your friendly neighborhood full stack developer here :man_technologist:
 
 <!--
 **Lucas-Masaba/Lucas-Masaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
