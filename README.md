@@ -1,5 +1,5 @@
 
-<h2> Hello, I'm Khusiima Luke Masaba. Call me Lucas! 
+<h2> Hello, I'm Khusiima Luke Masaba. Call me Lucas
 <p><em>Your friendly neighbourhood full stack Developer</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 
