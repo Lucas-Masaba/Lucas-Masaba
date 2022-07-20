@@ -6,7 +6,7 @@
 <h1 class="hello-h1" align="center">
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/>
-  My name is Khusiima Luke Masaba
+  My name is Lucas Masaba
 </h1>
 
 
