@@ -21,7 +21,7 @@ I joined a software development school called Microverse where I have been build
 * ✉️  You can contact me at [masabaluke@gmail.com](mailto:masabaluke@gmail.com)
 * 🤝  I'm open to collaborating on projects that are based on react or rails
 * ⚡  Ask me about anime and video games.
-* 👨‍🍳  Whipping up something in the kitchen.
+* 👨‍🍳  Currently learning cloud computing with Google Cloud <img src="https://user-images.githubusercontent.com/45460192/199182584-f8805f27-cb50-4d10-b9f6-60e53c40a09c.png" width="50" height="50" alt="Google Cloud" />
 
 ### Skills
 
