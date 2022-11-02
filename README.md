@@ -20,7 +20,7 @@ I joined a software development school called Microverse where I have been build
 * 🖥️  See my portfolio [here](http://lucas-masaba.github.io/my_portfolio/)
 * ✉️  You can contact me at [masabaluke@gmail.com](mailto:masabaluke@gmail.com)
 * 🤝  I'm open to collaborating on projects that are based on react or rails
-* ⚡  Ask me about anime and video games.
+* ⚡  Ask me about anime and video games 🎮. Red Dead Redemption 2 is top tier 🎩.
 * 👨‍🍳  Currently learning cloud computing with Google Cloud <img src="https://user-images.githubusercontent.com/45460192/199182584-f8805f27-cb50-4d10-b9f6-60e53c40a09c.png" width="50" height="50" alt="Google Cloud" />
 
 ### Skills
