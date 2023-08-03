@@ -56,5 +56,7 @@ I joined a software development school called Microverse where I have been build
 
 <a href="http://www.github.com/Lucas-Masaba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Masaba&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Masaba&layout=compact)
+
 ### Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sn6iicxoydmyibrqfdvsuvjr3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
