@@ -58,7 +58,7 @@ I joined a software development school called Microverse where I have been build
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Masaba&layout=compact)
 
-### [Clink here for something special I've been working on](https://youtu.be/dQw4w9WgXcQ?si=q8w0IchXIG_QmILo)
+### [Click here for something special](https://youtu.be/dQw4w9WgXcQ?si=q8w0IchXIG_QmILo)
 
 ### Listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sn6iicxoydmyibrqfdvsuvjr3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
