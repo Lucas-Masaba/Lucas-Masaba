@@ -4,23 +4,22 @@
 </div>
 
 <h1 class="hello-h1" align="center">
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/>
-  My name is Lucas Masaba
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
+  Hello, My name is Khusiima Luke Masaba. Call me Lucas.
 </h1>
+<br>
 
 
-
-I am a Full Stack developer looking for new opportunities 🔎
-----------------------------------------------------------
-
-I joined a software development school called Microverse where I have been building real world projects through pair programming with developers all over the world. I gained both technical and soft skills during my time there.
+<h3 align="center">
+  <div>I am a Full Stack developer looking for new opportunities 🔎</div>
+  <br>
+</h3>
 
 * 🌍  I'm based in Uganda
 * 🖥️  See my portfolio [here](http://lucas-masaba.github.io/my_portfolio/)
 * ✉️  You can contact me at [masabaluke@gmail.com](mailto:masabaluke@gmail.com)
-* 🤝  I'm open to collaborating on projects that are based on react or rails
-* ⚡  Ask me about anime and video games 🎮. Red Dead Redemption 2 is top tier 🎩.
+* 🤝  I'm open to collaborating on projects within my scope
+* ⚡  Ask me about anime and video games 🎮. Red Dead Redemption 2 is top tier 🎩
 
 ### Skills
 
