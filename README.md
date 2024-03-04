@@ -19,7 +19,7 @@
 * 🖥️  See my portfolio [here](http://lucas-masaba.github.io/my_portfolio/)
 * ✉️  You can contact me at [masabaluke@gmail.com](mailto:masabaluke@gmail.com)
 * 🤝  I'm open to collaborating on projects within my scope
-* ⚡  Ask me about anime and video games 🎮. Red Dead Redemption 2 is top tier 🎩
+* ⚡  Ask me about anime and video games 🎮. Played my first souls-like game, bloodborne. Just awesome.
 
 ### Skills
 
